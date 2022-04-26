@@ -7,7 +7,7 @@
 
 > use bash auto enable your sidecar
 
-### 🏠 [Homepage](github.com/fuergaosi233/enable-sidecar)
+### 🏠 [Homepage](https://github.com/fuergaosi233/enable-sidecar)
 
 ## Usage
 
